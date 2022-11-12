@@ -1,0 +1,2 @@
+此102jian.json与电路板硬件对应
+可直接上传到https://kbfirmware.com/网站
